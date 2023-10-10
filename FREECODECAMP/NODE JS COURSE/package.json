@@ -1,0 +1,19 @@
+{
+  "name": "node-js-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Intro-1.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
